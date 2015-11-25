@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/expert-/react-chat_app#readme",
   "dependencies": {
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
     "webpack": "^1.12.9"
   }
 }
